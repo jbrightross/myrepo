@@ -1,3 +1,2 @@
 # myrepo
-testing my setup
-test
+Everything is new!
